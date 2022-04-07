@@ -106,7 +106,7 @@ body {
 }
 
 .header__content {
-  background-image: url(/images/header/header-bg.png);
+  background-image: url(../images/header/header-bg.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: top;
@@ -321,7 +321,7 @@ body {
 }
 
 .seafood-box {
-  background-image: url(/images/seafood-box/seafood-bg.jpg);
+  background-image: url(../images/seafood-box/seafood-bg.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: top center;
@@ -339,7 +339,7 @@ body {
 }
 
 .seafood-box__item {
-  background-image: url(/images/seafood-box/safood-decor.svg);
+  background-image: url(../images/seafood-box/safood-decor.svg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -398,7 +398,7 @@ body {
 }
 
 .contacts {
-  background-image: url(/images/contacts/contacts-bg.jpg);
+  background-image: url(../images/contacts/contacts-bg.jpg);
   background-repeat: no-repeat;
   background-position: bottom left;
 }

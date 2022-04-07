@@ -2,8 +2,8 @@ $(function () {
 
   $('.header-slider').slick({
     dots: true,
-    prevArrow: '<button type="button" class="slick-prev"><img src="/images/header/prev.svg" alt="" /></button>',
-    nextArrow: '<button type="button" class="slick-next"><img src="/images/header/next.svg" alt="" /></button>',
+    prevArrow: '<button type="button" class="slick-prev"><img src="images/header/prev.svg" alt="" /></button>',
+    nextArrow: '<button type="button" class="slick-next"><img src="images/header/next.svg" alt="" /></button>',
     vertical: true,
     responsive: [
       {
@@ -24,8 +24,8 @@ $(function () {
     focusOnSelect: true,
     asNavFor: '.product__content',
     vertical: true,
-    prevArrow: '<button type="button" class="product-prev"><img src="/images/product/product-prev.svg" alt="" /></button>',
-    nextArrow: '<button type="button" class="product-next"><img src="/images/product/product-next.svg" alt="" /></button>',
+    prevArrow: '<button type="button" class="product-prev"><img src="images/product/product-prev.svg" alt="" /></button>',
+    nextArrow: '<button type="button" class="product-next"><img src="images/product/product-next.svg" alt="" /></button>',
     responsive: [
       {
         breakpoint: 891,
